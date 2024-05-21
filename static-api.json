@@ -1,0 +1,12 @@
+[
+  {"nama": "Chamomile", "namaLatin": "Matricaria chamomilla", "imageId": "chamomile"},
+  {"nama": "Dahlia", "namaLatin": "Dahlia", "imageId": "dahlia"},
+  {"nama": "Lavender", "namaLatin": "Lavandula angustifolia", "imageId": "lavender"},
+  {"nama": "Marigold", "namaLatin": "Tagetes", "imageId": "marigold"},
+  {"nama": "Lily", "namaLatin": "Lilium", "imageId": "lily"},
+  {"nama": "Orchid", "namaLatin": "Orchidaceae", "imageId": "orchid"},
+  {"nama": "Pheony", "namaLatin": "Paeonia", "imageId": "pheony"},
+  {"nama": "Rose", "namaLatin": "Rosa", "imageId": "rose"},
+  {"nama": "Sunflower", "namaLatin": "Helianthus annuus", "imageId": "sunflower"},
+  {"nama": "Tulip", "namaLatin": "Tulipa", "imageId": "tulip"}
+]
